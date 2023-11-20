@@ -1,4 +1,4 @@
-# Penetration Testing on one of INFOSEC4TC's Network 
+#  Network Penetration Testing
 
 <a name="readme-top"></a>
 
